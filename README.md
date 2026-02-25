@@ -1,16 +1,24 @@
 
 JOHN IJEBOR
 Email & Sales Copywriter | Revenue Strategist
+
 Delta, Nigeria | ijeborojei@gmail.com | Open to global remote work
+
 Hi, I’m John
 I help SaaS and e-commerce businesses turn emails into revenue. From trial-to-paid conversions to abandoned cart recovery, I craft strategic, conversion-focused campaigns that increase sales, retain customers, and drive measurable results.
+ 
 Let’s chat about turning your email marketing into a revenue engine.
+
 PROFESSIONAL PORTFOLIO
 Conversion-Focused Email & Sales Campaign Strategy
+
 CASE STUDY 1 – SaaS Trial-to-Paid Conversion Sequence
+
 Project Type: Strategic Demonstration Project
+
 Client: Steve – SaaS B2B
 Objective: Increase free-trial-to-paid conversion rate
+
 Business Challenge:
 • Low feature activation
 • Poor engagement post-signup
@@ -30,24 +38,32 @@ Immediately after signup: Welcome + Quick Win
 7 days later: Trial Expiry + Upgrade Prompt
 Sample Upgrade Email:
 Subject: Steve, your trial ends in 48 hours
+
 Hi Steve,
 You signed up because something wasn’t working. Maybe projects were delayed. Maybe your team was misaligned. Maybe reporting took too long.
 Over the past few days, you’ve seen how this platform simplifies task tracking and team coordination.
 When your trial expires in 48 hours, you’ll lose:
+
 Workflow automation
 Team dashboards
 Performance reports
 Integration access
+
 If the platform hasn’t helped, you can walk away. But if it’s already saving time or reducing friction, upgrading ensures your progress continues uninterrupted.
 [Upgrade My Account]
 Results & Optimization Opportunities:
  Increased trial-to-paid conversion by 25%
  A/B tested urgency-based vs benefit-driven subject lines
  Segmented highly active users for stronger upgrade push
+ 
 CASE STUDY 2 – E-commerce Abandoned Cart Recovery Flow
+
 Project Type: Strategic Demonstration Project
+
 Client: Jeff – Online Retail
+
 Objective: Recover abandoned carts and increase completed purchases
+
 Business Challenge:
 • 60–70% cart abandonment
 • High mobile traffic
@@ -59,6 +75,7 @@ Designed a 3-step behavior-based email sequence:
 3. 48 hours later: Scarcity + Incentive
 Sample Scarcity + Incentive Email:
 Subject: Jeff, your cart is about to expire
+
 Hi Jeff,
 You left something in your cart — and we’ve kept it reserved for you.
 This product is one of our most purchased items this week. Customers recently said:
@@ -68,14 +85,17 @@ This product is one of our most purchased items this week. Customers recently sa
 Use code RETURN10 for 10% off before midnight.
 Complete your purchase below before your cart resets:
 [Complete My Order]
+
 Results & Optimization Opportunities:
  • Recovered 18% of abandoned carts in 3-step sequence
  • Tested free shipping vs percentage discount
  • Added product-specific testimonials for higher conversion
+ 
 CASE STUDY 3 – Revenue Growth & Sponsor Retention Campaign
 Organization: Mega FM, Warri
 Role: Sales & Marketing / Customer Success Manager
 Objective: Increase advertiser sponsorship revenue and improve long-term retention
+
 Strategy Implemented:
 • Structured sponsor communication emails
 • Repositioned advertising packages around measurable audience reach
@@ -94,6 +114,7 @@ HOW I WORK
 4. Develop structured campaign flow
 5. Write conversion-focused messaging
 6. Identify optimization opportunities
+
 CORE EXPERTISE
 • Email Copywriting (Welcome, Launch, Retention & Recovery Sequences)
 • Sales Copywriting & Conversion Copy
@@ -103,8 +124,10 @@ CORE EXPERTISE
 • Landing Page & Funnel Copywriting
 • Customer Psychology & Objection Handling
 • Audience Research & Offer Positioning
+
 AVAILABILITY
 Open to:
+
 • Full-time Email Marketing & Sales Copywriting Roles
 • Remote SaaS Marketing Positions
 • E-commerce Retention Roles
