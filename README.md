@@ -5,6 +5,7 @@ Email & Sales Copywriter | Revenue Strategist
 Delta, Nigeria | ijeborojei@gmail.com | Open to global remote work
 
 Hi, I’m John
+
 I help SaaS and e-commerce businesses turn emails into revenue. From trial-to-paid conversions to abandoned cart recovery, I craft strategic, conversion-focused campaigns that increase sales, retain customers, and drive measurable results.
  
 Let’s chat about turning your email marketing into a revenue engine.
@@ -40,6 +41,7 @@ Sample Upgrade Email:
 Subject: Steve, your trial ends in 48 hours
 
 Hi Steve,
+
 You signed up because something wasn’t working. Maybe projects were delayed. Maybe your team was misaligned. Maybe reporting took too long.
 Over the past few days, you’ve seen how this platform simplifies task tracking and team coordination.
 When your trial expires in 48 hours, you’ll lose:
@@ -77,6 +79,7 @@ Sample Scarcity + Incentive Email:
 Subject: Jeff, your cart is about to expire
 
 Hi Jeff,
+
 You left something in your cart — and we’ve kept it reserved for you.
 This product is one of our most purchased items this week. Customers recently said:
  “It fits perfectly.”
