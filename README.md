@@ -1,8 +1,9 @@
 
 JOHN IJEBOR
+
 Email & Sales Copywriter | Revenue Strategist
-Delta, Nigeria 
-ijeborojei@gmail.com 
+Delta, Nigeria |
+ijeborojei@gmail.com |
 Open to global remote work
 
 Hi, I’m John
