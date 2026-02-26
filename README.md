@@ -131,6 +131,7 @@ CORE EXPERTISE
 • Audience Research & Offer Positioning
 
 AVAILABILITY
+
 Open to:
 
 • Full-time Email Marketing & Sales Copywriting Roles
